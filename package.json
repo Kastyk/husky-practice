@@ -13,7 +13,7 @@
     }
   },
   "lint-staged": {
-    "*.ts": ["tslint", "prettier --write", "git add"]
+    "*.js": ["tslint", "prettier --write", "git add"]
   },
   "author": "",
   "license": "ISC",
